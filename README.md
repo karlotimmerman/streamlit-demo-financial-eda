@@ -14,7 +14,7 @@ To use this library you need a financial time series dataset including `Timestam
 
 ```sh
 pip install streamlit==0.48.1 ta==0.4.5
-streamlit run https://raw.githubusercontent.com/bukosabino/streamlit-demo-financial-eda/master/app.py
+streamlit run https://raw.githubusercontent.com/karlotimmerman/streamlit-demo-financial-eda/master/app.py
 ```
 
 
